@@ -78,9 +78,10 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](Screenshot%20(9).png)
-![best fit line](Screenshot%20(15).png)
-![best fit line](Screenshot%20(21).png)
+![op1](https://user-images.githubusercontent.com/93427205/202080358-74ae3081-209e-4f24-aaaa-8971a9416617.png)
+![op2](https://user-images.githubusercontent.com/93427205/202080368-14304af5-9a9d-4b7f-b0ec-f55e326bad81.png)
+![op3](https://user-images.githubusercontent.com/93427205/202080378-4f940cde-e9c9-4091-b869-bd0ba537fde5.png)
+
 
 
 
